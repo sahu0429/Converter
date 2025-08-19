@@ -14,6 +14,3 @@ Convert XML to JSON
 - First rename your file to input.xml 
 - Execute `python3 converter.py`
 - The Output will be shown below as output.json
-
-## *Author Name*
-Azhad Ghufran
