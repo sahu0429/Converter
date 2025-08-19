@@ -28,8 +28,3 @@ This Python script converts the Speech input into Text using NLP (Natural Langau
 -   Enter the audio input by speaking into the microphone.
 -   Run converter_terminal.py script
 -   Output Text will be displayed
-
-
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Paulo Henrique](https://github.com/chavarera/python-mini-projects
