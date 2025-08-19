@@ -18,9 +18,3 @@ The `img2pdf` is an external Python module which enables you to convert a JPG im
 -   Add the image in the JPG format with name as 'input' in this folder.
 -   Run converter_terminal.py script
 -   Output PDF file will be generated in this folder
-
-
-### Screenshot/GIF showing the sample use of the script
-<!--Remove the below lines and add yours -->
-
-![image](https://drive.google.com/uc?export=view&id=1_86AVHC3DkrOCcVsEbTXWejsXtnJOVqq)
